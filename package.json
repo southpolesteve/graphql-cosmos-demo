@@ -1,0 +1,18 @@
+{
+  "name": "graphql-cosmos-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@azure/cosmos": "3.5.2",
+    "apollo-server": "2.9.13",
+    "dotenv": "8.2.0",
+    "graphql": "14.5.8"
+  }
+}
